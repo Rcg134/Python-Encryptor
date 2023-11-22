@@ -46,5 +46,5 @@ def main():
     encryptor.encrypt_pdf()
     encryptor.decrypt_pdf('decrypted.pdf')
 
-# Call main function eweqwqe
+# Call main function
 main()
